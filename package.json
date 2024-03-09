@@ -33,7 +33,6 @@
         "base58-native": "*",
         "async": "*",
         "merkle-bitcoin": "*",
-        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "promise": "*"
     },
     "engines": {
